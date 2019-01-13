@@ -51,7 +51,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/main.jpg
-  caption: One day morning in 2018.<br> Wish all your mindfulness.
+  caption: One day morning in 2018. Wish all your mindfulness.
 
 # Puglins
 mathjax: true # whether support mathjax
