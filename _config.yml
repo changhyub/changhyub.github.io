@@ -1,6 +1,6 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
+title: Study Logs
+tagline: 'Study Logs'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://changhyub.github.io" target="_blank">@changhyub</a>.'
 baseurl: ""
 url: http://changhyub.github.io
@@ -19,20 +19,19 @@ sass:
 paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
-
 version: 1.0.0
 
 # About/contact
 author:
   name: Changhyub
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  description: 꿈틀꿈틀 <strong>낙천주의적<strong> 학생
+  gravatar: e4c9b7076bd87effd89ba01f14c93d61 # md5 hash of your email address
   contact:
     # linkedin:  https://www.linkedin.com/in/
     github:    https://github.com/changhyub
     facebook:  https://www.facebook.com/changhyub.woo
     # twitter:   <hide>
-    email:     use0727@gmail.com
+    email:     mailto:use0727@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -44,8 +43,7 @@ nav:
     - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
-#  Github Project: 
-#    - <hide>
+
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
@@ -53,10 +51,10 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/main.jpg
-  caption: Original Artwork &copy; #<a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+  caption: One day morning in 2018. Wish all your mindfulness.
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+#google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'Changhyub' # leave blank if you don't want disqus
 
